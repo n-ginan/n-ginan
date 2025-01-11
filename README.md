@@ -2,9 +2,22 @@
 Hi folks, it ain't that important to know who I am--all you need to know is I like to code and eat :>.
 
 - As of the moment I am working on project-green-cross (Electronic Medical Record System)
-- I'm currently learning Flask framework and the web overall, and hopefully by the end of the year I get to atleast finish 3 systems (including our capstone)
+- I'm currently learning Flask framework and the web overall, and hopefully by the end of the year I get to atleast finish 3 systems (including our capstone)--and the next ones are still not planned nor pretty much thinking about it
 - My pronouns are hee/hee just like how Michael Jackson says it
 - Fun fact about me is...can't think of anything hehe, if we vibe--we vibe.
+
+## Programming related dream projects (minimum library and no framework ޏ₍ ὸ.ό₎ރ)
+- Video Games (possible genres would be, survival-horror, jrpg, stealth, and many more)
+- Web browser
+- Anti-Virus
+- Operating System (yes, even this one)
+- Artificial Intelligence
+- Some health related tool (its for the people ~(˘▾˘~) ~(˘▾˘)~ (~˘▾˘)~)
+
+## Not so programming related dream projects but with included programming (some discoveries or innovation)
+- ROBOOOOOOOOOT ＼(｀0´)／
+- build some businesses (im gonna need funds ¯\_ಠ_ಠ_/¯)
+- Contribute to the network/internet/web related discipline (hence the reason of tackling the web right now)
 
 Here have a hotdog <br>
 ![Hotdog Image](https://media0.giphy.com/media/l1K9Dcy7ww0CW3JHq/200.gif?cid=6c09b952gia9oce5vkocxn6jmisw79k1iiyj3b3g35q273we&ep=v1_gifs_search&rid=200.gif&ct=g)
