@@ -6,7 +6,7 @@ Hi folks, it ain't that important to know who I am--all you need to know is I li
 - My pronouns are hee/hee just like how Michael Jackson says it
 - Fun fact about me is...can't think of anything hehe, if we vibe--we vibe.
 
-## Programming related dream projects (minimum library and no framework ޏ₍ ὸ.ό₎ރ)
+## Programming related dream projects (minimal library and no framework ޏ₍ ὸ.ό₎ރ)
 - Video Games (possible genres would be, survival-horror, jrpg, stealth, and many more)
 - Web browser
 - Anti-Virus
