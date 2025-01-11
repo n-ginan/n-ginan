@@ -1,5 +1,5 @@
 ## Supsup 👋
-Hi folks, it ain't that important to who I am--all you need to know is I like to code and eat :>.
+Hi folks, it ain't that important to know who I am--all you need to know is I like to code and eat :>.
 
 - As of the moment I am working on project-green-cross (Electronic Medical Record System)
 - I'm currently learning Flask framework and the web overall, and hopefully by the end of the year I get to atleast finish 3 systems (including our capstone)
