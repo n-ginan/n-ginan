@@ -10,14 +10,14 @@ Hi folks, it ain't that important to know who I am--all you need to know is I li
 - Video Games (possible genres would be, survival-horror, jrpg, stealth, and many more)
 - Web browser
 - Anti-Virus
-- Operating System (yes, even this one)
 - Artificial Intelligence
 - Some health related tool (its for the people ~(˘▾˘~) ~(˘▾˘)~ (~˘▾˘)~)
 
 ## Not so programming related dream projects but with included programming (some discoveries or innovation)
 - ROBOOOOOOOOOT ＼(｀0´)／
 - build some businesses (im gonna need funds ¯\_ಠ_ಠ_/¯)
-- Contribute to the network/internet/web related discipline (hence the reason of tackling the web right now)
+
+## I WAS INDECISIVE AND EXCITED HEHE
 
 Here have a hotdog <br>
 ![Hotdog Image](https://media0.giphy.com/media/l1K9Dcy7ww0CW3JHq/200.gif?cid=6c09b952gia9oce5vkocxn6jmisw79k1iiyj3b3g35q273we&ep=v1_gifs_search&rid=200.gif&ct=g)
