@@ -1,7 +1,6 @@
 ## Supsup 👋
 Hi folks, it ain't that important to know who I am--all you need to know is I like to code and eat :>.
 
-- As of the moment I am working on project-green-cross (Electronic Medical Record System)
 - I'm currently learning Flask framework and the web overall, and hopefully by the end of the year I get to atleast finish 3 systems (including our capstone)--and the next ones are still not planned nor pretty much thinking about it
 - My pronouns are hee/hee just like how Michael Jackson says it
 - Fun fact about me is...can't think of anything hehe, if we vibe--we vibe.
