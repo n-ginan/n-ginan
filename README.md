@@ -1,5 +1,5 @@
 ## Supsup 👋
-Hi folks, it ain't that important to know who I am--all you need to know is I like to code and eat :>.
+Hi folks, it ain't that important to know who I am--all you need to know is I like IT and eat :>.
 
 - I'm currently learning Flask framework and the web overall, and hopefully by the end of the year I get to atleast finish 3 systems (including our capstone)--and the next ones are still not planned nor pretty much thinking about it
 - My pronouns are hee/hee just like how Michael Jackson says it
